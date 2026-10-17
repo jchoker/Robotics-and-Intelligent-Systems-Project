@@ -1,2 +1,4 @@
 # Robotics-and-Intelligent-Systems-Project
-Design and implemention of a system to control mobile robots. Thisincludes four robot reactive behaviours and one high level behaviour.
+
+Design and implementation of a system to control mobile robots. This includes four robot reactive behaviors and one high level behavior.
+
